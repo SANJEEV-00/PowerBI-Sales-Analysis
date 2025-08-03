@@ -69,9 +69,7 @@ You can include screenshots in a `Screenshots/` folder:
 
 | Overview Page | Category Analysis | Customer Returns |
 |---------------|-------------------|------------------|
-| ![overview](Overview.jpeg) | ![category](Category_Analysis.jpeg) | ![returns](Customer_Returns.jpeg) |
-
-> ⚠️ Replace with your actual screenshot file paths if you upload them to the repo.
+| ![overview](Overview.jpg) | ![category](Category_Analysis.jpg) | ![returns](Customer_Returns.jpg) |
 
 ---
 

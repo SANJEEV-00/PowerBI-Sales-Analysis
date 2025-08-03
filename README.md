@@ -63,9 +63,7 @@ This project presents a detailed Power BI dashboard built using the Sample Super
 
 ---
 
-## 🖼 Screenshots (Suggested)
-
-You can include screenshots in a `Screenshots/` folder:
+## 🖼 Screenshots
 
 | Overview Page | Category Analysis | Customer Returns |
 |---------------|-------------------|------------------|
